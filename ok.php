@@ -5,7 +5,7 @@ echo "need to pull";
 if($a>=5){
     echo"You are pass";
 }
-else[
+else{
     echo"fail";
 }
 ?>
