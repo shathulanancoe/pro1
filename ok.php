@@ -7,5 +7,5 @@ if($a>=5){
 }
 else[
     echo"fail";
-]
+}
 ?>
